@@ -1,0 +1,13 @@
+F:\GitHub\OpenQueryUi\OpenQueryUi\bin\Release\OpenQueryUi.exe.config
+F:\GitHub\OpenQueryUi\OpenQueryUi\bin\Release\OpenQueryUi.exe
+F:\GitHub\OpenQueryUi\OpenQueryUi\bin\Release\OpenQueryUi.pdb
+F:\GitHub\OpenQueryUi\OpenQueryUi\bin\Release\MaterialSkin.dll
+F:\GitHub\OpenQueryUi\OpenQueryUi\bin\Release\MetroFramework.Design.dll
+F:\GitHub\OpenQueryUi\OpenQueryUi\bin\Release\MetroFramework.dll
+F:\GitHub\OpenQueryUi\OpenQueryUi\bin\Release\MetroFramework.Fonts.dll
+F:\GitHub\OpenQueryUi\OpenQueryUi\obj\Release\OpenQueryUi.csproj.ResolveComReference.cache
+F:\GitHub\OpenQueryUi\OpenQueryUi\obj\Release\OpenQueryUi.FormSetup.resources
+F:\GitHub\OpenQueryUi\OpenQueryUi\obj\Release\OpenQueryUi.Properties.Resources.resources
+F:\GitHub\OpenQueryUi\OpenQueryUi\obj\Release\OpenQueryUi.csproj.GenerateResource.Cache
+F:\GitHub\OpenQueryUi\OpenQueryUi\obj\Release\OpenQueryUi.exe
+F:\GitHub\OpenQueryUi\OpenQueryUi\obj\Release\OpenQueryUi.pdb

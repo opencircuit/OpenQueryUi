@@ -1,0 +1,27 @@
+F:\Documents\VisualStudio Projects\OpenQueryUi\OpenQueryUi\bin\Debug\OpenQueryUi.exe.config
+F:\Documents\VisualStudio Projects\OpenQueryUi\OpenQueryUi\bin\Debug\OpenQueryUi.exe
+F:\Documents\VisualStudio Projects\OpenQueryUi\OpenQueryUi\bin\Debug\OpenQueryUi.pdb
+F:\Documents\VisualStudio Projects\OpenQueryUi\OpenQueryUi\bin\Debug\MaterialSkin.dll
+F:\Documents\VisualStudio Projects\OpenQueryUi\OpenQueryUi\bin\Debug\MetroFramework.Design.dll
+F:\Documents\VisualStudio Projects\OpenQueryUi\OpenQueryUi\bin\Debug\MetroFramework.dll
+F:\Documents\VisualStudio Projects\OpenQueryUi\OpenQueryUi\bin\Debug\MetroFramework.Fonts.dll
+F:\Documents\VisualStudio Projects\OpenQueryUi\OpenQueryUi\obj\Debug\OpenQueryUi.csprojResolveAssemblyReference.cache
+F:\Documents\VisualStudio Projects\OpenQueryUi\OpenQueryUi\obj\Debug\OpenQueryUi.csproj.ResolveComReference.cache
+F:\Documents\VisualStudio Projects\OpenQueryUi\OpenQueryUi\obj\Debug\OpenQueryUi.FormSetup.resources
+F:\Documents\VisualStudio Projects\OpenQueryUi\OpenQueryUi\obj\Debug\OpenQueryUi.Properties.Resources.resources
+F:\Documents\VisualStudio Projects\OpenQueryUi\OpenQueryUi\obj\Debug\OpenQueryUi.csproj.GenerateResource.Cache
+F:\Documents\VisualStudio Projects\OpenQueryUi\OpenQueryUi\obj\Debug\OpenQueryUi.exe
+F:\Documents\VisualStudio Projects\OpenQueryUi\OpenQueryUi\obj\Debug\OpenQueryUi.pdb
+F:\GitHub\OpenQueryUi\OpenQueryUi\bin\Debug\OpenQueryUi.exe.config
+F:\GitHub\OpenQueryUi\OpenQueryUi\bin\Debug\OpenQueryUi.exe
+F:\GitHub\OpenQueryUi\OpenQueryUi\bin\Debug\OpenQueryUi.pdb
+F:\GitHub\OpenQueryUi\OpenQueryUi\bin\Debug\MaterialSkin.dll
+F:\GitHub\OpenQueryUi\OpenQueryUi\bin\Debug\MetroFramework.Design.dll
+F:\GitHub\OpenQueryUi\OpenQueryUi\bin\Debug\MetroFramework.dll
+F:\GitHub\OpenQueryUi\OpenQueryUi\bin\Debug\MetroFramework.Fonts.dll
+F:\GitHub\OpenQueryUi\OpenQueryUi\obj\Debug\OpenQueryUi.csproj.ResolveComReference.cache
+F:\GitHub\OpenQueryUi\OpenQueryUi\obj\Debug\OpenQueryUi.FormSetup.resources
+F:\GitHub\OpenQueryUi\OpenQueryUi\obj\Debug\OpenQueryUi.Properties.Resources.resources
+F:\GitHub\OpenQueryUi\OpenQueryUi\obj\Debug\OpenQueryUi.csproj.GenerateResource.Cache
+F:\GitHub\OpenQueryUi\OpenQueryUi\obj\Debug\OpenQueryUi.exe
+F:\GitHub\OpenQueryUi\OpenQueryUi\obj\Debug\OpenQueryUi.pdb
